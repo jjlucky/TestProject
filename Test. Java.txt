@@ -1,6 +1,7 @@
 class Test {
 public void show()
 {
-System.out.println("hello");
+System.out.println("hello")
+System.out.println("hello1");
 }
 }
